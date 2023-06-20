@@ -1,2 +1,4 @@
 // This is an editable fiile
-window.getComputedStyle
+let reverse = (a) => {
+    a = "Hello World";
+}
