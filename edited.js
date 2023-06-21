@@ -2,3 +2,9 @@
 let reverse = (a) => {
     a = "Hello World";
 }
+
+
+function editLayout() {
+    let layout = new SVGAElement();
+    return layout
+}
