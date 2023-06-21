@@ -8,3 +8,7 @@ function editLayout() {
     let layout = new SVGAElement();
     return layout
 }
+
+function createPassword(password) {
+    password = setPassword();
+}
